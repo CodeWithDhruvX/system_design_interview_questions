@@ -1,3 +1,5 @@
+System Design	Beginner	High Availability	Architect	Ensuring 99.99% uptime for mission-critical apps	What is high availability and how is it achieved in system design?
+
 I am a complete beginner in system design, but I want to think and answer like a FANG-level engineer.
 
 Based on the system design question below, please guide me step-by-step like a mentor. For each step, teach me the concept I need, help me think critically, and explain with real-world examples (especially Indian apps like Zomato, Paytm, IRCTC).
@@ -147,3 +149,22 @@ Product Manager – Focus on feature breakdown, priorities, MVP vs v2.
 Security Engineer – Focus on threat modeling, auth/authz, encryption.
 
 Data Engineer – Focus on pipelines, batch vs stream processing.
+
+
+
+
+
+
+I am a complete beginner in system design, but I want to understand the topic deeply and think like a FANG-level engineer.
+
+Here is the topic: "Session Persistence in Scalable Systems"
+
+Please explain it step by step like you're mentoring me. For each step:
+1. Teach me the key concept involved.
+2. Explain it with simple analogies or real-world examples (especially Indian apps like Zomato, Paytm, IRCTC if possible).
+3. Break down any jargon or advanced terms into beginner-friendly language.
+4. If relevant, include diagrams, flowcharts, or architecture sketches.
+5. Show me how this concept is used in real systems (not just theory).
+6. End with a simple summary, pros and cons, and a quiz question or mini exercise to reinforce learning.
+
+Make it feel like a 1-on-1 learning session with an expert architect.
