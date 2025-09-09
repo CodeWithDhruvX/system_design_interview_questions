@@ -1,0 +1,100 @@
+````
+---
+
+I will provide a list of questions or topics. For each question:
+
+1. Generate a YouTube video presentation text.
+
+2. Structure each presentation as follows:
+
+   * Introduction: Include a introduction about the topic text.
+   * Key Points: 3–5 main points, each with:
+
+     * Bullet points for explanation
+     * Diagram or visual placeholder (Mermaid or image placeholder)
+       Example:
+       graph showing step 1 → step 2 → step 3
+     * On-screen text / narration cues in parentheses
+   * Conclusion: Summary and call-to-action
+
+3. Tone should be conversational, engaging, and easy to visualize.
+
+4. Keep sentences short and suitable for narration.
+
+5. Output all questions in a single file, each starting with a heading for the question/topic.
+
+Input format example:
+
+* Question 4: How does blockchain work?
+* Question 5: What is quantum computing?
+* Question 6: How do neural networks learn?
+
+Output: One file with presentations, diagrams, and visual cues for all questions.
+
+
+make sure that this is not youtube script but youtube video presentation text
+---
+Do you avoid conflict or confrontation?
+
+How do you deal with heartbreak or loss?
+
+Do you feel safe being vulnerable with others?
+
+Hindi (Devanagari) + English tech terms (the style you want):
+“आज हम समझेंगे sync.WaitGroup क्या है और इसका इस्तेमाल कहाँ किया जाता है।”
+
+
+but "Question" word only english
+
+````
+ 
+
+=======================================================
+
+
+in depth explantion add and final output gives me in the Hindi (Devanagari) + English tech terms (the style you want): “आज हम समझेंगे sync.WaitGroup क्या है और इसका इस्तेमाल कहाँ किया जाता है।”
+
+
+============================================================
+
+
+Topic title must folllow with numberic number. topic_name jsut like this # 1. Introduction to Python **Script:** Welcome to our Python tutorial series! Today, we'll explore the basics of Python programming. # 2. Variables in Python **Script:** Let's dive into variables, the building blocks of any Python program.
+
+
+give me the script as a signle video question for the all questions above and don't combined it seperates
+
+===========================================================
+
+ based on the above result genrated resulta YouTube video presentation text, Your task is to turn this presentation into a YouTube script.  
+
+Requirements:  
+
+1. Use the original presentation text as the main source.  
+2. Expand short sentences into full narration suitable for a video.  
+3. Include natural spoken transitions and conversational phrasing.  
+4. Add prompts for visuals, on-screen text, or animations exactly where they appear in the presentation text.  
+5. Keep the tone engaging, friendly, and easy to follow.  
+6. Make it read like a script a YouTuber would actually speak, without changing the key points.  
+7. For diagrams or Mermaid placeholders in the presentation text, describe them in words for narration and suggest animations or visuals for the video.  
+8. Include opening greetings, brief hooks, and call-to-action at the end.  
+9. 5 to 7 minutes script text
+10. Add **pauses and rhythm** where needed — use [pause] to show natural breaks.
+11. Topic title must folllow with numberic number. topic_name
+
+Output format:  
+
+* Introduction / Hook  
+* Section 1: (Narration + visual cues)  
+* Section 2: …  
+* Conclusion / Call-to-action  
+
+
+Here is the input presentation text:  
+[PASTE PRESENTATION TEXT HERE]
+
+
+
+
+
+
+
